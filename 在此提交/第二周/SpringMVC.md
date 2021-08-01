@@ -24,7 +24,7 @@
 
     6、客户端发起请求测试
 
-  ![62744915665](D:\学习资料\高级篇\SpringMVC.png)
+  ![62744915665](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/SpringMVC.png)
 
 
 ![62745381415](D:\学习资料\高级篇\SpringMVC代码实现.png)

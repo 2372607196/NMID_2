@@ -24,12 +24,12 @@
 
     6、客户端发起请求测试
 
-  ![62744915665](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/SpringMVC.png)
+  ![62744915665](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/screen%E2%80%94%E2%80%94shoot/SpringMVC.png)
 
 
-![62745381415](D:\学习资料\高级篇\SpringMVC代码实现.png)
+![62745381415](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/screen%E2%80%94%E2%80%94shoot/SpringMVC%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0.png)
 
-![62745386963](D:\学习资料\高级篇\SpringMVC流程.png)
+![62745386963](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/screen%E2%80%94%E2%80%94shoot/SpringMVC%E6%B5%81%E7%A8%8B.png)
 
 #### 2、SpringMVC的执行流程
 

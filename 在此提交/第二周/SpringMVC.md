@@ -53,7 +53,7 @@
 
   10、DispatcherServlet根据VIew进行渲染视图(即将模型数据填充至视图中)。DispatcherServlet响应用户。
 
-![62745657830](D:\学习资料\高级篇\SpringMVC执行流程.png)
+![62745657830](https://github.com/2372607196/NMID_2/blob/main/%E5%9C%A8%E6%AD%A4%E6%8F%90%E4%BA%A4/%E7%AC%AC%E4%BA%8C%E5%91%A8/screen%E2%80%94%E2%80%94shoot/SpringMVC%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B.png)
 
 #### 3、SpringMVC注解解析
 
